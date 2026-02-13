@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "6cddc3710f732100",
+    "type": "split",
+    "children": [
+      {
+        "id": "7890d0b9824deafb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c291d4a785c1a25f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日常生活的Principles.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "日常生活的Principles"
+            }
+          },
+          {
+            "id": "faffb09118035d4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "用新的想法来重新思考事情.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "用新的想法来重新思考事情"
+            }
+          },
+          {
+            "id": "e955924ebc8eeac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "physics/Newton's First Law - \"When left alone, an object will naturally come to rest.\"的假说是否正确?.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Newton's First Law - \"When left alone, an object will naturally come to rest.\"的假说是否正确?"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea5eccfca76eb7f5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "86e5d80064a75ec3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "cf911b96df35ccfa",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "14af03e763c76caf",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "1576e78517c8c7c7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a33d4a6fc3081841",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8f44467f457c3a42",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "physics/Newton's First Law - \"When left alone, an object will naturally come to rest.\"的假说是否正确?.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "b8365dcadbd4d6e2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "math/为什么用圆不能证明平面三角形内角和为180度，而做一平行线却能很直接的证明.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "916e7fa9fc1f4c46",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "math/为什么用圆不能证明平面三角形内角和为180度，而做一平行线却能很直接的证明.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e955924ebc8eeac9",
+  "lastOpenFiles": [
+    "Pasted image 20260212122708.png",
+    "日常生活的Principles.md",
+    "图片_physics/斜面上放置一小球.png",
+    "physics/Newton's First Law - \"When left alone, an object will naturally come to rest.\"的假说是否正确?.md",
+    "Newton's First Law - \"When left alone, an object will naturally come to rest.\"的假说是否正确?-1.md",
+    "math/连续化插值（Continuous Interpolation——借用微积分的重锤.md",
+    "physics/Classical Mechanics中对particle的definition.md",
+    "Classical Mechanics中对particle的definition.md",
+    "连续化插值（Continuous Interpolation——借用微积分的重锤.md",
+    "图片_math/n的n次方根.png",
+    "math/e的极限定义 (证明lim_{n to infty}).md",
+    "math/利用单调有界有极限定理证明序列 n的n次方根 有极限且极限是1.md",
+    "physics/地球是圆的还是方的？.md",
+    "图片/所有的x_n这个整体 ≥ 所有的y_n整体吗?.png",
+    "图片/自然的使用方法而非机械死板.jpeg",
+    "以y的绝对值=x的绝对值的点所在的直线为参照, 依此对x绝对值和y绝对值大小关系区域进行划分.png",
+    "图片_math/函数商法则的证明中为什么不限制相对误差小于epsilon而是限制它小于一个实数?.png",
+    "图片_math/pikachu老师关于\"夹逼\"的本质的指导.png",
+    "图片_math/以O为中心边长为r的正方形.png",
+    "图片_math/由曲线的点(r,0)结合导数信息演绎曲线图像.png",
+    "图片_math/关于夹逼定理的证明-A+epsilon>B-epsilon.png",
+    "math/e的定义 (证明lim_{n to infty}).md",
+    "math/由对于一元微分中对于导数的理解引申对于线形逼近的理解.md",
+    "math/极限的乘法则和商法则的证明.md",
+    "math/f(x)=√x 在x=0处可微吗?.md",
+    "math/关于极限的单调性定理的证明.md",
+    "math/x_n>y_n能说明inf{x_n}>sup{y_n}吗?.md",
+    "math/一类函数的大致函数图像-简约多项式函数和有理函数函数.md",
+    "math/若对足够大的 n 有 x_n ≥ y_n , 且两个序列收敛, 能否由此推出 lim_{n → ∞} inf {x_n} ≥ lim_{n → ∞} sup{y_n}.md",
+    "math/共轭根式.md",
+    "由例子中就地取材学会工具和方法_物理专业的学生需要培养自己的一种学习模式.md",
+    "我欣赏的物理学家的风格.md",
+    "自然的使用方法而非机械死板.md",
+    "用新的想法来重新思考事情.md",
+    "math/曲线x的n次方+y的n次方=r的2n次方 的形状.md",
+    "physics/能量不适用于预测运动.md",
+    "scripts",
+    "图片",
+    "未命名.base",
+    "info"
+  ]
+}

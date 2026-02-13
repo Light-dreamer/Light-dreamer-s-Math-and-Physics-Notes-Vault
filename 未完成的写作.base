@@ -1,0 +1,26 @@
+formulas:
+  "": ""
+properties:
+  file.backlinks:
+    displayName: 名称
+views:
+  - type: table
+    name: math
+    filters:
+      and:
+        - file.hasTag("math")
+        - projects == "未完成"
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: physics
+    filters:
+      and:
+        - file.hasTag("physics")
+        - projects == "未完成"
+  - type: table
+    name: Sum
+    filters:
+      and:
+        - projects == "未完成"
