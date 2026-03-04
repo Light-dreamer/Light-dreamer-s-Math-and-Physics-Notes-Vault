@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "physics/Newton's First Law - \"When left alone, an object will naturally come to rest.\"的假说是否正确?.md",
+                "file": "日常生活的Principles.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Newton's First Law - \"When left alone, an object will naturally come to rest.\"的假说是否正确?"
+              "title": "日常生活的Principles"
             }
           }
         ],
@@ -99,7 +99,7 @@
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
-          "title": "Files"
+          "title": "文件列表"
         }
       },
       {
@@ -157,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "physics/Newton's First Law - \"When left alone, an object will naturally come to rest.\"的假说是否正确?.md",
+            "file": "日常生活的Principles.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "unlinkedCollapsed": false
           },
           "icon": "links-coming-in",
-          "title": "Backlinks"
+          "title": "反向链接"
         }
       },
       {
@@ -204,23 +204,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "workspaces:Manage workspace layouts": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "bases:Create new base": false
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "bases:创建新数据库": false
     }
   },
   "active": "e955924ebc8eeac9",
   "lastOpenFiles": [
+    "physics/Newton's First Law - \"When left alone, an object will naturally come to rest.\"的假说是否正确?.md",
     "Pasted image 20260212122708.png",
     "日常生活的Principles.md",
     "图片_physics/斜面上放置一小球.png",
-    "physics/Newton's First Law - \"When left alone, an object will naturally come to rest.\"的假说是否正确?.md",
     "Newton's First Law - \"When left alone, an object will naturally come to rest.\"的假说是否正确?-1.md",
     "math/连续化插值（Continuous Interpolation——借用微积分的重锤.md",
     "physics/Classical Mechanics中对particle的definition.md",
@@ -237,7 +237,6 @@
     "图片_math/pikachu老师关于\"夹逼\"的本质的指导.png",
     "图片_math/以O为中心边长为r的正方形.png",
     "图片_math/由曲线的点(r,0)结合导数信息演绎曲线图像.png",
-    "图片_math/关于夹逼定理的证明-A+epsilon>B-epsilon.png",
     "math/e的定义 (证明lim_{n to infty}).md",
     "math/由对于一元微分中对于导数的理解引申对于线形逼近的理解.md",
     "math/极限的乘法则和商法则的证明.md",
