@@ -253,9 +253,33 @@
               "icon": "lucide-image",
               "title": "由纯逻辑方法得到的有关真实世界的观点，都是完全空洞的？"
             }
+          },
+          {
+            "id": "9d658b29cba0d630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "physics/Newton's First Law - \"When left alone, an object will naturally come to rest.\"的假说是否正确?.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Newton's First Law - \"When left alone, an object will naturally come to rest.\"的假说是否正确?"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -419,12 +443,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "06a72585b40797c5",
+  "active": "9d658b29cba0d630",
   "lastOpenFiles": [
+    "physics/Classical Mechanics中对particle的definition.md",
+    "我欣赏的物理学家的风格.md",
+    "日常生活的Principles.md",
+    "图片_physics/由纯逻辑方法得到的有关真实世界的观点，都是完全空洞的？.png",
     "Pasted image 20260126122334.png",
     "physics/Newton's First Law - \"When left alone, an object will naturally come to rest.\"的假说是否正确?.md",
-    "图片_physics/由纯逻辑方法得到的有关真实世界的观点，都是完全空洞的？.png",
-    "physics/Classical Mechanics中对particle的definition.md",
     "Newton's First Law - \"When left alone, an object will naturally come to rest.\"的假说是否正确?-1.md",
     "math/为什么用圆不能证明平面三角形内角和为180度，而做一平行线却能很直接的证明.md",
     "physics/经典力学的决定论观点—经典力学的预设（经验假设）.md",
@@ -433,7 +459,6 @@
     "physics/关于物体位移比例固定的重力平衡问题.md",
     "physics/力是什么? 至少经典力学中的力指的是什么?.md",
     "physics/地球是圆的还是方的？.md",
-    "图片_physics/由纯逻辑方法得到的有关真实世界的观点，都是完全空洞的？.png",
     "math/为什么Δ与0的大小关系能用来判断二次函数y=ax²+bx+c (a ≠ 0)的零点个数呢？.md",
     "math/行列式的全置换性 的证明.md",
     "math/证明 f(x)定积分的绝对值 小于等于  f(x)的绝对值的定积分.md",
@@ -447,7 +472,6 @@
     "math/判断由连续函数构成的方程在指定区间是否有根.md",
     "math/关于极限的单调性定理的证明.md",
     "math/对 为什么函数的导数一般仍是关于x的函数? 的理解.md",
-    "日常生活的Principles.md",
     "math/关于黄金比例数的迭代序列x²_{n+1}=x_n+1(x_n>0).md",
     "图片_physics/斜面上放置一小球.png",
     "Pasted image 20260130114810.png",
